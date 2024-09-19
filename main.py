@@ -85,7 +85,7 @@ def get_checker():
 class Player(pygame.sprite.Sprite):
     # COLOR = (255, 0, 0)  # Default color (not used here)
     GRAVITY = 1  # Gravity constant for the player
-    SPRITES = load_sprite_sheets("MainCharacters", "PinkMan", 32, 32, True)  # Load player sprites
+    SPRITES = load_sprite_sheets("MainCharacter", "ZEE", 32, 32, True)  # Load player sprites
     ANIMATION_DELAY = 3  # Delay between animation frames
 
     def __init__(self, x, y, width, height):
