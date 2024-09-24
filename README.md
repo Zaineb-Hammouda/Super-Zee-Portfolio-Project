@@ -1,18 +1,18 @@
 # Super ZEE
 
-![Super ZEE Cover Image](your_cover_image_url_here)
+![Super ZEE Cover Image](assets\start\start.png)
 
 ## Introduction
 
-*Super ZEE* is a pixel-art platformer game where players embody "Zaineb Hammouda," an ALX Software Engineering student. The game mirrors the real-life ALX journey, with each level representing a sprint or month in the SE program. Players must collect exams, avoid the KIMBA and Checker traps, and score 70% or higher before the timer runs out to advance to the next level. Built in Python using the Pygame library, *Super ZEE* combines engaging gameplay with a personal narrative of overcoming challenges and growth in the ALX program.
+*Super ZEE* is a pixel-art platformer game where players embody "Zee" an ALX Software Engineering student. The game mirrors the real-life ALX journey, with each level representing a sprint or month in the SE program. Players must collect exams, avoid the KIMBA and Checker traps, and score 70% or higher before the timer runs out to advance to the next level. Built in Python using the Pygame library, *Super ZEE* combines engaging gameplay with a personal narrative of overcoming challenges and growth in the ALX program.
 
-[**Play Super ZEE here**](your_deployed_site_url_here)  
-[**Read the full project blog article here**](your_blog_article_url_here)
+[**Play Super ZEE here**]([https://github.com/Zaineb-Hammouda/Super-Zee-Portfolio-Project/blob/master/SuperZEE-install.zip])  
+[**Read the full project blog article here**]([https://medium.com/@zaineb.hammouda.zee/alx-portfolio-project-blog-post-70033d9516af])
 
 ### Author
 
 - **Zaineb Hammouda** – Creator, Programmer, and Graphic Designer  
-[LinkedIn](your_linkedin_url_here)
+[LinkedIn](https://www.linkedin.com/in/zainebhammouda/)
 
 ---
 
@@ -21,13 +21,13 @@
 To install and play *Super ZEE* locally, follow these steps:
 
 1. **Download the game repository**:  
-   [Download the ZIP file](your_repository_zip_url_here)
+   [Download the ZIP file]([https://github.com/Zaineb-Hammouda/Super-Zee-Portfolio-Project/blob/master/SuperZEE-install.zip])
 
 2. **Extract the ZIP file**:  
    Unzip the downloaded file to your desired location.
 
 3. **Run the game**:  
-   Inside the extracted folder, locate and execute the `SuperZEE.exe` file to start playing the game.
+   Inside the extracted folder, locate and execute the `main.exe` file to start playing the game.
 
 ### System Requirements
 - Windows OS (Recommended)
@@ -44,7 +44,7 @@ To install and play *Super ZEE* locally, follow these steps:
 - **Spacebar**: Jump (Double jump is available).
 - **Goal**: Collect exams to boost your score, avoid KIMBA and Checker traps, and finish the level before the time limit.
 
-Feel free to customize the game by adding new levels, enemies, or modifying the existing code to create new gameplay mechanics.
+The game is still in its early stages of development so keep ur eyes peeled for more updates or jump in and contribute if you want ^^
 
 ---
 
