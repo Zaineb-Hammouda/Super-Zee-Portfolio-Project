@@ -1,13 +1,13 @@
 # Super ZEE
 
-![Super ZEE Cover Image](assets\start\start.png)
+![Super ZEE Cover Image](https://github.com/Zaineb-Hammouda/Super-Zee-Portfolio-Project/blob/master/assets/start/start.png)
 
 ## Introduction
 
 *Super ZEE* is a pixel-art platformer game where players embody "Zee" an ALX Software Engineering student. The game mirrors the real-life ALX journey, with each level representing a sprint or month in the SE program. Players must collect exams, avoid the KIMBA and Checker traps, and score 70% or higher before the timer runs out to advance to the next level. Built in Python using the Pygame library, *Super ZEE* combines engaging gameplay with a personal narrative of overcoming challenges and growth in the ALX program.
 
-[**Play Super ZEE here**]([https://github.com/Zaineb-Hammouda/Super-Zee-Portfolio-Project/blob/master/SuperZEE-install.zip])  
-[**Read the full project blog article here**]([https://medium.com/@zaineb.hammouda.zee/alx-portfolio-project-blog-post-70033d9516af])
+[**Play Super ZEE here**](https://github.com/Zaineb-Hammouda/Super-Zee-Portfolio-Project/blob/master/SuperZEE-install.zip)  
+[**Read the full project blog article here**](https://medium.com/@zaineb.hammouda.zee/alx-portfolio-project-blog-post-70033d9516af)
 
 ### Author
 
